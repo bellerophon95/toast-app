@@ -52,7 +52,7 @@ router.get('/', credentialValidator, (function (req, res, next) {
       next();
     })
     .catch(e => {
-      res.json(e);
+      next(createError(500));
     });
 }));
 
