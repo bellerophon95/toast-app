@@ -1,0 +1,32 @@
+{
+  "credentials": [
+    {
+      "name": "scipio@toast.com",
+      "password": "Augur123*"
+    },
+    {
+      "name": "sisyphus@toast.com",
+      "password": "Burgers123*"
+    },
+    {
+      "name": "publius.maximus@toast.com",
+      "password": "Chimichangas123*"
+    },
+    {
+      "name": "virgil@toast.com",
+      "password": "Doritos123*"
+    },
+    {
+      "name": "ceres@toast.com",
+      "password": "Escargot123*"
+    },
+    {
+      "name": "bellerophon@toast.com",
+      "password": "Fudgepops123*"
+    },
+    {
+      "name": "minerva@toast.com",
+      "password": "Gumbo123*"
+    }
+  ]
+}
